@@ -1,0 +1,10 @@
+# 2018-6-28 15:19:06
+# MD5 AES RSA三种加密方法
+Env:
+ python3.6
+ pycrypto-2.6.1
+
+require:
+    1. MD5加密
+    2. AES加密及解密
+    3. RSA加密及解密
